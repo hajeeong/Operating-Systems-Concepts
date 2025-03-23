@@ -1,0 +1,10 @@
+2025-03-22 20:10 [START]Driver program started
+2025-03-22 20:12 [COMMAND]User entered: password
+2025-03-22 20:12 [RESULT]Password set
+2025-03-22 20:12 [COMMAND]User entered: encrypt
+2025-03-22 20:12 [RESULT:]ENCRYPT operation: ZINCS
+2025-03-22 20:12 [COMMAND]User entered: decrypt
+2025-03-22 20:12 [RESULT]DECRYPT operation: HELLO
+2025-03-22 20:12 [COMMAND]User entered: history
+2025-03-22 20:12 [INFO]History displayed
+2025-03-22 20:13 [COMMAND]User entered: quit
